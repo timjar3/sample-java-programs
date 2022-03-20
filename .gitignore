@@ -1,6 +1,6 @@
 # Folder 
-base
-deadlock
+base/
+deadlock/
 
 
 *.class
